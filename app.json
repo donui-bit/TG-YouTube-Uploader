@@ -9,7 +9,7 @@
         "TeleRoid Bots"
     ],
     "website": "https://telegram.dog/TheTeleRoid",
-    "repository": "https://github.com/P-Phreak/TG-YouTube-Uploader",
+    "repository": "https://github.com/donui-bit/TG-YouTube-Uploader",
     "success_url": "https://telegram.dog/TeleRoid14",
     "env": {
         "TG_BOT_TOKEN": {
